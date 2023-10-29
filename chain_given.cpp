@@ -1,10 +1,3 @@
-/**
- * File: chain_given.cpp
- * Description: completed implementation for some Chain functions
- *              for CPSC 221 2023W1 PA1
- *
- *              THIS FILE WILL NOT BE SUBMITTED.
- */
 
 #include "chain.h"
 
