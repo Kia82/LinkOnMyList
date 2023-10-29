@@ -1,10 +1,4 @@
-/**
- * File: chain.cpp
- * Description: student implementation for Chain functions
- *              for CPSC 221 2023W1 PA1
- *
- *              THIS FILE WILL BE SUBMITTED.
-**/
+
 
 #include <math.h>
 #include <iostream>
