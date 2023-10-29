@@ -1,10 +1,4 @@
-/**
- * File: block.cpp
- * Description: student implementation for Block functions
- *              for CPSC 221 2023W1 PA1
- *
- *              THIS FILE WILL BE SUBMITTED.
-**/
+
 //branchout
 #include "block.h"
 #include <iostream>
