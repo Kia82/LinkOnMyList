@@ -1,12 +1,4 @@
-/**
- * File: main.cpp
- * Description: entry point for test program
- *              for CPSC 221 2023W1 PA1
- *
- *              Add or modify test code as needed.
- * 
- *              THIS FILE WILL NOT BE SUBMITTED.
- */
+
 
 #include <iostream>
 
